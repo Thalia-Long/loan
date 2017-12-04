@@ -237,11 +237,13 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric class="int">201</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric class="int">400</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -276,19 +278,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">0</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_INTEGER</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
-        <valueNumeric class="int">200</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_INTEGER</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
-        <valueNumeric class="int">0</valueNumeric>
+        <valueNumeric class="int">401</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -299,6 +289,18 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="int">5000</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueBoolean>true</valueBoolean>
         <valueString></valueString>
         <dataType>BOOLEAN</dataType>
         <isOtherwise>false</isOtherwise>
